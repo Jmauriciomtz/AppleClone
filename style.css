@@ -218,7 +218,10 @@ nav a {
 #product-links > li > a {
   text-decoration: none;
 }
-
+.heroLink {
+  color: black;
+  border-bottom: 1px solid;
+}
 /*      Sub-hero Container       */
 .hero-sub-section {
   margin-top: 16px;
@@ -266,6 +269,10 @@ nav a {
 }
 #exchange > a {
   text-decoration: none;
+}
+.heroSubLink {
+  color: black;
+  border-bottom: 1px solid;
 }
 
 /*           Footer           */
